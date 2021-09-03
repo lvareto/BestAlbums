@@ -6,5 +6,8 @@ The BestAlbums project has as objective to analyse the data from the 2003 and 20
 ## Data collecting from Discogs API
 The first part of this project is to build a dataset with some selected atributes from the albums in the lists. So, I did Python script in Jupyter Notebook named 'dataCollecting.ipynb'. In this code I used webscrapping to get the album lists from the Discogs website and then I used the Discogs API to get the albums atributes. Some Python libraries were used mainly the BeautifulSoup to manipulate HTML tags.
 
+## Data analytics and Data visualization
+The next parts of the project are in progress, so it will be posted here asap.
+
 ### Disclaim
 As I am not a data scientist yet, so maybe the coding need to be improved. So, I'll be grateful if you, Python Master, be patient and help me to get better =)
